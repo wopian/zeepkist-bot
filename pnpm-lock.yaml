@@ -15,8 +15,8 @@ importers:
         specifier: ~7.2.0
         version: 7.2.0
       '@zeepkist/graphql':
-        specifier: ~1.26.0
-        version: 1.26.0
+        specifier: ~1.317.0
+        version: 1.317.0
       date-fns:
         specifier: ~4.1.0
         version: 4.1.0
@@ -666,8 +666,8 @@ packages:
     resolution: {integrity: sha512-RaI5qZo6D2CVS6sTHFKg1v5Ohq/+Bo2LZ5gzUEwZ/WkHhwtGTCB/sVLw8ijOkAUxasZ+WshN/Rzj4ywsABJ5ZA==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
 
-  '@zeepkist/graphql@1.26.0':
-    resolution: {integrity: sha512-zWhma6tBuRcephoQhMhf+YLnGw9/JRJ0hS1hnwh6763YgHCrfB6OvcrcNMVK4dopGtP9c14/cb5Di+Wt7iYcxQ==}
+  '@zeepkist/graphql@1.317.0':
+    resolution: {integrity: sha512-ImJNYQF/9shNPlPGMuq+Pv0P8IUEs9rlhfpuKKNwuMgwc+dWaql/uyt1tMa2vDNDWooGSQo/PL5Fo6x951IvnQ==}
 
   abbrev@1.1.1:
     resolution: {integrity: sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==}
@@ -3830,7 +3830,7 @@ snapshots:
 
   '@vladfrangu/async_event_emitter@2.4.6': {}
 
-  '@zeepkist/graphql@1.26.0': {}
+  '@zeepkist/graphql@1.317.0': {}
 
   abbrev@1.1.1: {}
 
